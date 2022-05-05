@@ -1,0 +1,6 @@
+- Subir arquivo php para  a public_html
+
+- Chamar na url 
+
+- Verificar se as imagens foram Comprimidas
+
